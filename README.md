@@ -1,1 +1,1 @@
-# Wordle-Game
+# Wordle-Game that incorporates front react rendering and JSX game logic to create a replica of the New York Times game "Wordle". The project fetches data through the mock api json file in the data folder. 
